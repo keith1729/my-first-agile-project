@@ -17,8 +17,7 @@ As a **role** I can **capability** so that **received benefit**
 </ul>
 
 ## Tasks
-<ul>
-    <li>Task 1</li>
-    <li>Task 2</li>
-    <li>Task 3</li>
-</ul>
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
